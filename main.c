@@ -12,7 +12,7 @@ int main() {
   }else if(t>=26 && t<35){
     printf("nhiet do %.2f do C: troi am\n" , t);
   }else{
-    printf("nhiet do 5.2f do C: troi rat nong\" , t);
+    printf("nhiet do 5.2f do C: troi rat nong\n" , t);
   }
   return 0;
 }
