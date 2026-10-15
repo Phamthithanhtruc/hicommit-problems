@@ -2,7 +2,7 @@
 int main() {
   float t;
   printf("nhap nhiet do vao: ");
-  scantf("%f" , &t);
+  scanf("%f" , &t);
   if(t<0){
     printf("nhiet do %.2f do C: rat lanh\n" , t);
   }else if(t>=0 && t<18){
