@@ -22,7 +22,7 @@ int main() {
   else if (dtb >= 9.0 && 70<=drl <80)
   {
     printf("HOC_BONG_KHA");}
+  else
     printf("KHONG_DAT");
-  }
   return 0;
 }
