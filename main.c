@@ -9,7 +9,7 @@ int main() {
   }  
   if ( 8.0<= dtb <9.0 && 80<= drl <90){
     printf("HOC_BONG_GIOI");
-  }else if {
+  }else if{
     printf("KHONG_DAT");
   }
   if (7.0<= dtb < 8.0 && 70<= drl <80){
